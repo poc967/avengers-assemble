@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Steve Rogers",
+    "alias": "Captain America",
+    "country": "United States",
+    "powers": [
+      "Super Strength",
+      "Super Speed",
+      "Super Durability"
+    ],
+    "affliations": [
+      "Avengers"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Sooraya Qadir",
+    "alias": "Dust",
+    "country": "AFGHANISTAN",
+    "powers": [
+      "transmorph"
+    ],
+    "affliations": [
+      "X-Men"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bruce Banner",
+    "alias": "Hulk",
+    "country": "United States",
+    "powers": [
+      "Super Strength",
+      "Involnerability"
+    ],
+    "affliations": [
+      "Avengers"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Roberto Da Costa",
+    "alias": " Sunspot ",
+    "country": "Brazil",
+    "powers": [
+      "Super Strength",
+      "Super Speed",
+      "Super Durability"
+    ],
+    "affliations": [
+      "Avengers",
+      "X-Men"
+    ]
+  }
+]
